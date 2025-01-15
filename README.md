@@ -8,7 +8,7 @@ This repository is a collection of simple Python mini-games.
 * 💻 **Practice:** Practice core Python concepts (e.g., loops, conditionals, functions, input/output).
 * 🎲 **Fun:** Enjoy some quick and easy-to-play games. 
 
-**Disclaimer:*
+**Disclaimer:**
 
 * This repository features simple Python mini-games, each contained within a single file to emphasize core concepts and learning.
 * These games are not intended to be production-ready or highly sophisticated. 
@@ -17,6 +17,7 @@ This repository is a collection of simple Python mini-games.
 **Games:**
 
 **Dice rolling game**
+
 The Dice Rolling Game is a simple and entertaining game of chance. Players can simulate rolling one or more dice, observing the outcomes.
 
 ![alt=dice-rolling-game-image](public/dice-rolling.png)
